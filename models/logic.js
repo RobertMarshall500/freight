@@ -1,5 +1,3 @@
-$(document).ready(function() {
-  console.log("****** I'm Ready: ******");
 
 var config = {
     apiKey: "AIzaSyA3MFI80hU4EZX7hZ4gewJul5hUIIsGJMk",
